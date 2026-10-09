@@ -27,4 +27,4 @@ An end-to-end automation stack for a working hotel:
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/ken-kurian-giboy/) · Open to automation, AI operations and data roles in Paris or remote.
+[Portfolio](https://kenkuriangiboy.lovable.app/) · [Case study](https://kenkuriangiboy.lovable.app/case-study/hotel-automation) · [LinkedIn](https://www.linkedin.com/in/ken-kurian-giboy/) · Open to automation, AI operations and data roles in Paris or remote.
