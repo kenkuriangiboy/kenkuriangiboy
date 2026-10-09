@@ -21,6 +21,8 @@ An end-to-end automation stack for a working hotel:
 - **Error alerts:** an email the moment any workflow fails
 - **Direct booking prototype:** Razorpay checkout with signature-verified webhooks
 
+**Impact:** ~200 online bookings a month imported automatically, ~35–50 staff hours saved a month and ~600 guest messages sent automatically.
+
 <img src="https://raw.githubusercontent.com/kenkuriangiboy/hotel-automation/main/docs/screenshots/whatsapp-concierge-demo.gif" alt="WhatsApp concierge demo" width="260">
 
 ## Get in touch
